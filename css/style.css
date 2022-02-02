@@ -1,0 +1,111 @@
+header {
+   
+    height: 400px;
+    background-color: rgb(184, 52, 52);
+    top: 0;
+    left: 0;
+
+
+}
+
+img.mond {
+    height: 300px;
+    margin-left: 750px;
+    margin-top: -260px;
+
+    
+}
+
+header h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    width: 650px;
+   
+}
+
+div.container {
+    width: 900px;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 0px;
+}
+
+div.onsverhaal {
+    width: 900px;
+    height: 100px;
+    background-color: rgb(119, 47, 47);
+    margin-top: 10px;
+    
+}
+
+div.onsverhaal h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    
+
+}
+
+div.afbeeldingen img {
+
+    width: 400px;
+    height: 350px;
+    margin-bottom: 20px;
+    float: left;
+    margin-right: 50px;
+    margin-top: 50px;
+    
+}
+
+div.bestel {
+width: 900px;
+height: 300px;
+background-color: rgb(119, 47, 47);
+margin-top: 20px;
+float: left; 
+    
+}
+
+div.bestel h3 {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    text-align: center; 
+    margin-top: 100px;
+
+}
+
+div.bestel p4 {
+    width: 20px;
+}
+
+
+
+div.tekst p {
+
+    color:rgb(184, 52, 52);
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+div.info-afbeelding img {
+    width: 900px;
+    height: 450px;
+}
+
+div.bestel a {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: rgb(184, 52, 52);
+    margin-left: 420px;
+    color: rgb(119, 47, 47);
+    margin-top: 10px;
+
+}
+
+div.header {
+    width: 1000px;
+    height: 400px;  
+    margin: 0 auto;
+}
